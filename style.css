@@ -1,0 +1,29 @@
+#signDiv{
+    visibility:hidden;
+  }
+  .container-fluid h1{
+    font-family: 'Courier New', Courier, monospace;
+  }
+#SignBody{
+	background-color:#f6f6f6;
+}
+#SignHead{
+	padding-left: 0px;
+	padding-right: 0px; 
+}
+#jb{ background-color: #f4511e;
+      color: #fff;
+      padding: 100px 25px;
+      font-family: Montserrat, sans-serif;
+  }
+#tagTogg{
+	margin-left:50px;
+	margin-top: 20px;
+}
+.col-sm-6 img{
+  width: auto;
+    
+}
+#printDiv{
+  visibility: hidden;
+}
